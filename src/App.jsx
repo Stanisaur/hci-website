@@ -162,7 +162,7 @@ export default function App() {
           "Content-Type": "application/json"
         },
         body: JSON.stringify({
-          "model": "moonshotai/kimi-k2.5",
+          "model": "google/gemini-3-flash-preview",
           "messages": newHistory.map(m => ({ 
             role: m.role, 
             content: m.content,
