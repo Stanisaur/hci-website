@@ -1,16 +1,14 @@
-# React + Vite
+# HCS team AK code implementation of protoype.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repo contains the code for HCS team AK. prototype is live https://hci-website.pages.dev/ , password is "HCITOP1COURSE".
 
-Currently, two official plugins are available:
+## Requirements
+- modern version of npm
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Setup
+in the project root, run:
+```code
+npm install
+npm run dev
+```
+and then follow the link given in terminal, should run in browser like a charm, password is "HCITOP1COURSE", though this can be edited by running the site in setup mode.
