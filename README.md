@@ -11,4 +11,4 @@ in the project root, run:
 npm install
 npm run dev
 ```
-and then follow the link given in terminal, should run in browser like a charm, password is "HCITOP1COURSE", though this can be edited by running the site in setup mode.
+and then follow the link given in terminal, the site should open in the browser, password is "HCITOP1COURSE", though this can be edited by running the site in setup mode.
